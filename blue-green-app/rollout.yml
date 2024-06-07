@@ -33,5 +33,5 @@ spec:
         image: docker.io/kostiscodefresh/gitops-canary-app:v1.0
         ports:
         - name: http
-          containerPort: 8080
+          containerPort: 8081
           protocol: TCP
